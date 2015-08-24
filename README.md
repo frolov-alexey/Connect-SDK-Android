@@ -1,6 +1,6 @@
 #Connect SDK Android
 
-[![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg)](http://search.maven.org/#artifactdetails|com.connectsdk|connect-sdk-android|1.5.0|aar)
+[![Maven Central](http://img.shields.io/maven-central/v/com.connectsdk/connect-sdk-android.svg)](http://search.maven.org/#artifactdetails|com.connectsdk|connect-sdk-android|1.5.0|aar)
 [![Apache License, 2.0](https://img.shields.io/cocoapods/l/ConnectSDK.svg)](https://github.com/ConnectSDK/Connect-SDK-Android/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/badge/twitter-@ConnectSDK-blue.svg)](https://twitter.com/connectsdk)
 

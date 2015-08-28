@@ -5,6 +5,9 @@ android:
   components:
     - android-22
     - build-tools-22.0.1
+    - extra-google-google_play_services
+    - extra-google-m2repository
+    - extra-android-m2repository
 
 before_script:
     - curl -L -ofling.zip https://s3-us-west-1.amazonaws.com/amazon-fling/AmazonFling-SDK.zip

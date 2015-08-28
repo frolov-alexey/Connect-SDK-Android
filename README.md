@@ -1,5 +1,7 @@
 #Connect SDK Android
 
+[![Build Status](https://travis-ci.org/frolov-alexey/Connect-SDK-Android.svg)](https://travis-ci.org/frolov-alexey/Connect-SDK-Android)
+[![Code Coverage](https://img.shields.io/codecov/c/github/frolov-alexey/Connect-SDK-Android/dev.svg)](https://codecov.io/github/frolov-alexey/Connect-SDK-Android)
 [![Maven Central](http://img.shields.io/maven-central/v/com.connectsdk/connect-sdk-android.svg)](http://search.maven.org/#artifactdetails|com.connectsdk|connect-sdk-android|1.5.0|aar)
 [![Apache License, 2.0](https://img.shields.io/cocoapods/l/ConnectSDK.svg)](https://github.com/ConnectSDK/Connect-SDK-Android/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/badge/twitter-@ConnectSDK-blue.svg)](https://twitter.com/connectsdk)

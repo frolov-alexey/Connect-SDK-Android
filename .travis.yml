@@ -11,4 +11,6 @@ before_script:
     - mv -v android-sdk/lib/AmazonFling.jar modules/firetv/libs
     - mv -v android-sdk/lib/android/WhisperPlay.jar modules/firetv/libs
 
-script: gradle build
+script:
+    - gradle build
+

@@ -14,7 +14,9 @@ before_script:
     - unzip fling.zip 'android-sdk/lib/*'
     - mv -v android-sdk/lib/AmazonFling.jar modules/firetv/libs
     - mv -v android-sdk/lib/android/WhisperPlay.jar modules/firetv/libs
-    - ls -l ./
+
+after_success:
+    - bash <(curl -s https://codecov.io/bash)
 
 script:
     - gradle build

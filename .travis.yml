@@ -14,6 +14,7 @@ before_script:
     - unzip fling.zip 'android-sdk/lib/*'
     - mv -v android-sdk/lib/AmazonFling.jar modules/firetv/libs
     - mv -v android-sdk/lib/android/WhisperPlay.jar modules/firetv/libs
+    - ls -l ./
 
 script:
     - gradle build

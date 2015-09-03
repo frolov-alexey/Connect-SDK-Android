@@ -19,5 +19,5 @@ after_success:
     - bash <(curl -s https://codecov.io/bash)
 
 script:
-    - gradle build
+    - gradle build --info
 
